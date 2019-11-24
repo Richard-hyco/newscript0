@@ -78,8 +78,8 @@ then
 clear
 echo "\033[39;1m"
 toilet -f mono12 -F metal "INFO"
-echo "Dibuat oleh "
-echo "AMRiezz | Ryuki"
+echo "DiRecode oleh"
+echo "RD-HYCO0"
 echo "versi 0.1"
 echo "THANKS TO ALL MEMBER Hyco0"
 echo ""
@@ -99,6 +99,6 @@ then
 clear
 echo "\033[39;1m"
 toilet -f mono12 -F metal "KELUAR"
-echo "semoga hari mu menyenangkan"
+echo "Terima kasih karena Sudah Menggunakan Tools Ini Walaupun Gak Semuanya Work Mohon Maaf Keditaknyamannya ya"
 fi
 
