@@ -1,5 +1,5 @@
 clear
-toilet -f bigmono9 -F gay GCO SPAM
+toilet -f bigmono9 -F gay Hyco0_Spam
 sleep 1
 echo "\033[38;1m ------------------------------------------------------------------"|lolcat
 echo "\033[31;1m #Geeky Cyber Organization"
