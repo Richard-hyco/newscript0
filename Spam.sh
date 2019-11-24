@@ -4,8 +4,8 @@ sleep 1
 echo "\033[38;1m ------------------------------------------------------------------"|lolcat
 echo "\033[31;1m #Geeky Cyber Organization"
 echo "\033[36;1m author by :"
-echo "\033[36;1m AMRiezz | Ryuki | Mr13"
-echo "\033[32;1m Sebelum memilih spam,terlebih dahulu install bahan (08)"
+echo "\033[36;1m Hyco0404 | RD-Hyco0 | Mr13"
+echo "\033[32;1m Gunakan Tools Dengan Bijak Yak Sebelum Mulai Pilih (08) dulu"
 echo "\033[38;1m ------------------------------------------------------------------"|lolcat
 
 date|lolcat
@@ -81,7 +81,7 @@ toilet -f mono12 -F metal "INFO"
 echo "Dibuat oleh "
 echo "AMRiezz | Ryuki"
 echo "versi 0.1"
-echo "THANKS TO ALL MEMBER GCO"
+echo "THANKS TO ALL MEMBER Hyco0"
 echo ""
 fi
 
