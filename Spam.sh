@@ -91,7 +91,7 @@ then
 clear
 echo "Loading ----------------------------------"|lolcat
 sh install.sh
-sh .sh
+sh Spam.sh
 fi
 
 if [ $ezz = 09 ] || [ $ezz =9 ]
