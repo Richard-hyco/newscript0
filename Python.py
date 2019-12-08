@@ -3,10 +3,10 @@ def jalan(z):
 		sys.stdout.write(e)
 		sys.stdout.flush()
 		time.sleep(0.05)
-print "Halo Selamat Datang Di Test Ini"
-print "ini sekedar test saja"
-print "dibuat oleh RD-HYCO0"
-print "langsung aja kita login ok"
+print("Halo Selamat Datang Di Test Ini")
+print("ini sekedar test saja")
+print("dibuat oleh RD-HYCO0")
+print("langsung aja kita login ok")
  def siapa():
 	os.system('clear')
 	nama = raw_input("\033[1;97mSiapa nama kamu ? \033[1;91m: \033[1;92m")
